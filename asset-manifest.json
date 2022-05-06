@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://dandara-aryadne.github.io/csb-4noz5d/static/css/main.6d90f85e.chunk.css",
+    "main.js": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/main.211ae855.chunk.js",
+    "main.js.map": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/main.211ae855.chunk.js.map",
+    "runtime-main.js": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/runtime-main.23542a7e.js",
+    "runtime-main.js.map": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/runtime-main.23542a7e.js.map",
+    "static/js/2.81005be8.chunk.js": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/2.81005be8.chunk.js",
+    "static/js/2.81005be8.chunk.js.map": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/2.81005be8.chunk.js.map",
+    "index.html": "https://dandara-aryadne.github.io/csb-4noz5d/index.html",
+    "static/css/main.6d90f85e.chunk.css.map": "https://dandara-aryadne.github.io/csb-4noz5d/static/css/main.6d90f85e.chunk.css.map",
+    "static/js/2.81005be8.chunk.js.LICENSE.txt": "https://dandara-aryadne.github.io/csb-4noz5d/static/js/2.81005be8.chunk.js.LICENSE.txt",
+    "static/media/Angrymen.f0e702b4.jpeg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/Angrymen.f0e702b4.jpeg",
+    "static/media/DevilsEye.a85c7d56.jpeg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/DevilsEye.a85c7d56.jpeg",
+    "static/media/Gilda.a96144cb.jpg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/Gilda.a96144cb.jpg",
+    "static/media/Marilyn.d80e8cb2.jpg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/Marilyn.d80e8cb2.jpg",
+    "static/media/StarWars.395e4eb9.jpeg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/StarWars.395e4eb9.jpeg",
+    "static/media/TwoTowers.2bcb0283.jpg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/TwoTowers.2bcb0283.jpg",
+    "static/media/arrow.306d87b0.svg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/arrow.306d87b0.svg",
+    "static/media/heart.9aee6465.svg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/heart.9aee6465.svg",
+    "static/media/profile.a26b9c3c.svg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/profile.a26b9c3c.svg",
+    "static/media/smain.65809533.jpg": "https://dandara-aryadne.github.io/csb-4noz5d/static/media/smain.65809533.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23542a7e.js",
+    "static/js/2.81005be8.chunk.js",
+    "static/css/main.6d90f85e.chunk.css",
+    "static/js/main.211ae855.chunk.js"
+  ]
+}

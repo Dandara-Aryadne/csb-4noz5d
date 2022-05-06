@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,QACE,UACF","file":"main.6d90f85e.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n.ModalB {\n  color: white;\n}\n"]}
